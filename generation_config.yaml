@@ -1,6 +1,6 @@
 gapic_generator_version: 2.40.1
 protoc_version: '25.3'
-googleapis_commitish: 716a2814e199eeef8fd9f3e11418ee0881ac833a
+googleapis_commitish: b7bcc9b8b34d3ba85790ebd7a6b460e92d013b31
 libraries_bom_version: 26.38.0
 template_excludes:
     - renovate.json
